@@ -1,0 +1,29 @@
+*{
+    margin:auto;
+}
+h2{
+    text-align: center;
+}
+.container{
+    text-align: center;
+}
+input{
+    font-size: 30px;
+    border: 2px solid blue;
+    width: 250px;
+}
+button{
+    font-size: 30px;
+    width: 60px;
+    height: 50px;
+    background-color: rgb(126, 175, 218);
+}
+.calculator{
+    background-color: blue;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 20px;
+}
+{j
+dfmdsfm}
+
